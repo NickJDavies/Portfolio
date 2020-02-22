@@ -1,0 +1,25 @@
+body {
+    background-color: orange;
+}
+
+
+.image {
+    max-height: 225px;
+    margin-left: 10px;
+}
+
+.caption {
+    position: relative;
+    bottom: 50px;
+    background-color: #ccccee;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+figure {
+    margin-right: 15px;
+}
+
+.navigation {
+    margin-bottom:10px;
+}
